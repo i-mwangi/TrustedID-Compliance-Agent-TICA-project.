@@ -1,0 +1,11 @@
+[33mcommit 448e6845dded8dfcd553a2cc2c1b6d5fe9f49565[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mwangi <mwangihenry336@gmail.com>
+Date:   Mon Mar 31 07:16:20 2025 +0300
+
+    Add app.py and environment configuration
+
+[33mcommit 3ea711b4dc60ed3bfd1b1910c955bdc70aeccfb6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: mwangi <mwangihenry336@gmail.com>
+Date:   Mon Mar 31 07:11:13 2025 +0300
+
+    Initial commit: Add README.md and LICENSE
